@@ -1,7 +1,7 @@
 public class LiadVardi {
-	public static void main(string[] args) {
-		system.out.println("Liad");
-		system.out.println("Liad");
-		system.out.println("Liad");
+	public static void main(String[] args) {
+		System.out.println("Liad-dev");
+		System.out.println("Liad-dev");
+		System.out.println("Liad-dev");
 	}
 }
